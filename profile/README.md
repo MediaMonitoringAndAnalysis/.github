@@ -20,6 +20,8 @@ Reporter.ai is an open-source, real-time media monitoring and end-to-end data an
 
 The Reporter.ai pipeline is developed under the AGPL-3.0 license and includes several specialized modules:
 
+- **Entry Extraction Module**: Chunks and groups semantically related sentences from text documents.
+
 - **Humanitarian Extracts Classification Module**: Automates the classification of humanitarian-related extracts.
 
 - **Geolocation Extraction Module**: Extracts geolocation data from various sources to enhance situational awareness.
